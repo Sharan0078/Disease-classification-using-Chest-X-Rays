@@ -42,7 +42,6 @@ Please download the dataset from the Kaggle competition page before training or 
 - Python
 - PyTorch
 - NumPy
-- OpenCV
 - Pandas
 - Matplotlib
 - Kaggle Notebooks
