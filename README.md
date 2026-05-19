@@ -42,12 +42,15 @@ Please download the dataset from the Kaggle competition page before training or 
 - Python
 - PyTorch
 - NumPy
+- OpenCV
 - Pandas
 - Matplotlib
 - Kaggle Notebooks
 
 ## Evaluation
 The competition uses a macro-averaged asymmetric scoring metric where false negatives are penalized much more heavily than false positives, reflecting real-world clinical importance.
+
+**Competition Score Achieved:** `-4.58724`
 
 ## Applications
 - AI-assisted radiology
